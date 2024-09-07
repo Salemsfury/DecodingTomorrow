@@ -21,14 +21,14 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Decoding-Tomorrow
-description: my big day # this means to ignore newlines until "Language & timezone"
-  
+description: > # this means to ignore newlines until "Language & timezone"
+   At decoding tomorrow i will be posting about cyber related topics of interest and talking about my cybersecurity learning pathway and projects
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: en # the language of your site, default as "en"
+timezone: London/europe # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
