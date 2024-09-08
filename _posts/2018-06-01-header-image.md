@@ -1,10 +1,10 @@
 ---
-title: Cyber Warfare in Ukraine: Defending Digital Frontiers and Unveiling the OSINT Revolution
-tags: TeXt
+title: "Cyber Warfare in Ukraine: Defending Digital Frontiers and Unveiling the OSINT Revolution"
+tags: "TeXt"
 article_header:
-type: cover
-image:
-src: /screenshot.jpg
+  type: "cover"
+  image:
+    src: "/screenshot.jpg"
 ---
 
 Introduction
